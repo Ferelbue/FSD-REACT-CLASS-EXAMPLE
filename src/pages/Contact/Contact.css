@@ -1,0 +1,10 @@
+
+.contactDesign {
+    height: 82vh;
+    width: 100vw;
+    background-color: lightcoral;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
